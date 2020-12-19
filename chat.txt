@@ -1,0 +1,10 @@
+22:30:49	 발신자 민준수 : 43.2523.36
+22:31:44	 발신자 민준수 : char* str = "3.14+(4-2)*5-((42-5)*2)";
+22:33:05	 발신자 민준수 : 앞 스택 뒤 스택 2 2
+22:33:43	 발신자 민준수 : typedef struct digit{    int beforeSize;    int afterSize;    struct num* before;    struct num* after;} Digit, *pDigit;
+22:35:01	 발신자 민준수 : char popOperator(pOperator* top);
+22:36:15	 발신자 이 강민 : 3.14
+22:36:20	 발신자 이 강민 : 3 . 1 4
+22:36:57	 발신자 이 강민 : (5 + 7) * 10
+22:37:16	 발신자 민준수 : 5 7 + 10 *
+22:37:40	 발신자 이 강민 : NULL
